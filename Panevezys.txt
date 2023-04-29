@@ -1,1 +1,7 @@
-Panevezys
+Panevežys:
+0-3 val. Mažai debesuota, 9-8°C
+4-7 val. Lietus, 8-7°C
+8-11 val. Mažai debesuota, 8-11°C
+12-15 val. Mažai debesuota, 12-14°C
+16-19 val. Mažai debesuota, 13-11°C
+20-23 val. Debesuota, 10-8°C

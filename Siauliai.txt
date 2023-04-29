@@ -1,1 +1,7 @@
-Siauliai
+Šiauliai:
+0-3 val. Protarpiais lietus, 10-8°C
+4-7 val. Nedidelis lietus, 8-6°C
+8-11 val. Giedra, 7-10°C
+12-15 val. Mažai debesuota, 11-12°C
+16-19 val. Mažai debesuota, 12-10°C
+20-23 val. Debesuota su pragiedruliais, 9-6°C

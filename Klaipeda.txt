@@ -1,1 +1,7 @@
-Klaipeda
+Klaipėda:
+0-3 val. Lietus, 8-7°C
+4-7 val. Giedra, 6-5°C
+8-11 val. Giedra, 7-9°C
+12-15 val. Giedra, 9°C
+16-19 val. Giedra, 9-7°C
+20-23 val. Giedra, 7-5°C
