@@ -1,0 +1,7 @@
+Alytus: 
+0-3 val. Debesuota, 7-8°C
+4-7 val. Protarpiais nedidelis lietus, 9-7°C
+8-11 val. Nedidelis lietus, 7-10°C
+12-15 val. Giedra, 11-13°C
+16-19 val. Giedra, 13-11°C
+20-23 val. Giedra, 10-5°C
