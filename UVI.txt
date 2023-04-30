@@ -1,3 +1,3 @@
-UVI šeštadienį daug kur bus 4, pajūryje 3.
-UVI sekmadienį daug kur bus 4, Lazdijuose ir aplink teritorijose 5.
-UVI pirmadienį bus 4, Panevėžio, Utenos apskrityse 3, vietomis Vilniaus ir daug kur Alytaus apskrityse 5.
+UVI sekmadienį daug kur bus 4, Kauno, Marijampolės ir Alytaus apskrityse - 5.
+UVI pirmadienį vietomis 5 (Kaune, Lazdijuose, Varėnose ir Vilniuje), vietomis 4 (Šiauliuose ir Klaipėdoje), vietomis 3 (Panevėžyje ir Utenoje)
+UVI antradienį vietomis 5 (Vilniuje ir aplink teritorijose), vietomis 4 (Kaune ir Utenoje), vietomis 3 (Panevėžyje ir Klaipėdoje), vietomis 2 (Šiauliuose ir aplink teritorijose)
