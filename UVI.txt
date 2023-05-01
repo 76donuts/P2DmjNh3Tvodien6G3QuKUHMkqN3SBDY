@@ -1,3 +1,4 @@
-UVI sekmadienį daug kur bus 4, Kauno, Marijampolės ir Alytaus apskrityse - 5.
-UVI pirmadienį vietomis 5 (Kaune, Lazdijuose, Varėnose ir Vilniuje), vietomis 4 (Šiauliuose ir Klaipėdoje), vietomis 3 (Panevėžyje ir Utenoje)
-UVI antradienį vietomis 5 (Vilniuje ir aplink teritorijose), vietomis 4 (Kaune ir Utenoje), vietomis 3 (Panevėžyje ir Klaipėdoje), vietomis 2 (Šiauliuose ir aplink teritorijose)
+UVI šiandien bus 4, Šiauliuose ir Klaipėdoje - 3, Vilniuje, Varėnoje ir Lazdijuose - 5.
+UVI rytoj bus 4, Vilniuje ir Varėnoje - 5, Panevėžyje ir Klaipėdoje - 3, Šiauliuose - 2.
+UVI trečiadienį bus 4, Varėnoje - 3.
+ATNAUJINTA: 5/1/2023 12:00
