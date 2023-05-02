@@ -5,4 +5,6 @@
 12-15 val. Giedra ☀️ 9-10°C
 16-19 val. Giedra ☀️ 10-8°C
 20-23 val. Giedra 🌙 7-4°C
-ATNAUJINTA: 5/2/2023 21:00
+ATNAUJINTA: 5/2/2023 21:45
+
+Prašome atsinaujinti programėlę į 1.0.2. Nuo gegužės 8 dienos miestų prognozės jau neatsinaujins.

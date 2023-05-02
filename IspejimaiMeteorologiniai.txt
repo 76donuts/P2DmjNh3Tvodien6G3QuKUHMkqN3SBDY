@@ -1,4 +1,6 @@
-2023-05-01 - Nėra.
-2023-05-02 - Visoje Lietuvoje yra pavojingas reiškinys: Agrometeorologinis reiškinys - Naktį dirvos paviršiuje kai kur šalnos 0-3 laipsniai šalčio (Kauno, Panevėžio ir Marijampolės apskrityse), 0-5 laipsniai šalčio (Vilniaus, Utenos, ir Alytaus apskrityse).
-2023-05-03 - Klaipėdos, Šiaulių, Telšių ir Panevėžio apskrityse yra pavojingas reiškinys: Agrometeorologinis reiškinys - Naktį daug kur šalnos 0-2, 0-3, 0-4 (0-2 Klaipėdos, 0-3 Panevėžio ir 0-4 Šiaulių ir Telšių apskrityse)
-ATNAUJINTA: 5/1/2023 19:00
+2023-05-02 - Nėra.
+2023-05-03 - Visoje Lietuvoje yra pavojingas reiškinys: Agrometeorologinis reiškinys - Naktį daug kur šalnos 0-2, 0-4, 0-5 (0-2 Klaipėdos, 0-4 Telšių, 0-5 Vilniaus, Alytaus, Kauno ir 0-5, vietomis iki 7 laipsnių šalčio Marijampolės, Tauragės, Panevėžio, Šiaulių ir Utenos apskrityse.).
+2023-05-04 - Visoje Lietuvoje yra pavojingas reiškinys: Agrometeorologinis reiškinys - Naktį daug kur šalnos 0-5, 1-6 (0-5 Klaipėdos apskrityje, 1-6 visur kitur.).
+ATSINAUJINO: 5/2/2023 21:45
+
+Prašome atsinaujinti programėlę į 1.0.2. Nuo gegužės 6 dienos meteorologinių reiškinių įspejimai jau neatsinaujins.
