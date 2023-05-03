@@ -1,2 +1,4 @@
-Iki vidurnakčio jau bus debesuota, temperatūra kris 4-6°C. Tokia temperatūra pasiliks visą naktį, dieną šils 13-15°C, bet daug kur lis. Lietaus metu temperatūra gali nukritsti iki 9 laipsnių šilumos. Naktį vės iki 5-3°C. Ryte gali trumpam pagiedrėti dangus, bet diena jau bus apsniaukia. Taip pat diena oras šils iki 12 laipsnių šilumos. Pus normalus šiaurės vakarų vėjas. Link vidurnakčio pagiedrės oras.
-ATNAUJINTA: 5/1/2023 21:10
+Vakare giedrės dangus, naktį oras gali šalti iki 0-1 laipsnio šalčio, dirvos paviršius iki 6 laipsnių šalčio. Diena oras šils 11-14°C, daug kur bus debesuota. Bet pradės vietomis lyti vakare. Lietaus metu gali pakilti vėjas. Ryte daug kur oras šals iki 0-1 laipsnio šalčio. Diena oras atšils iki 8-11°C, bus debesuota su pragiedruliais.
+ATNAUJINTA: 5/3/2023 17:00
+
+Prašome atsinaujinti į 1.0.2 programėles versijos, nes nuo gegužės 8 dienos, apskričių, miestų prognozės nebeatsinaujins.
