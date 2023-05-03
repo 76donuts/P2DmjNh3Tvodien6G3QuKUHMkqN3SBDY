@@ -1,10 +1,10 @@
-2023-05-03 (Trečiadienis)
-0-3 val. Giedra 🌙 4-2°C
-4-7 val. Giedra ☀️ 2-1°C
-8-11 val. Giedra ☀️ 4-11°C
-12-15 val. Debesuota su pragiedruliais 🌥️ 12-13°C
-16-19 val. Debesuota su pragiedruliais 🌥️ 13-11°C
-20-23 val. Giedra 🌙 10-6°C
-ATNAUJINTA: 5/2/2023 21:45
+2023-05-04 (Ketvirtadienis)
+0-3 val. Giedra 🌙 5-3°C
+4-7 val. Debesuota su pragiedruliais 🌥️ 2-3°C
+8-11 val. Debesuota su pragiedruliais 🌥️ 4-9°C
+12-15 val. Debesuota su pragiedruliais 🌥️ 10-11°C
+16-19 val. Debesuota ☁️ 10°C
+20-23 val. Debesuota ☁️ 9-6°C
+ATNAUJINTA: 5/3/2023 19:30
 
-Prašome atsinaujinti programėlę į 1.0.2. Nuo gegužės 8 dienos miestų prognozės jau neatsinaujins.
+Informuojame, kad nuo gegužės 8 dienos, miestų ir apskričių prognozės stos atsinaujinti ant senesnių programėlės versijų (1.0 ir 1.0.1). Prašome atsinaujinti į 1.0.2 ar naujesnę versiją.
