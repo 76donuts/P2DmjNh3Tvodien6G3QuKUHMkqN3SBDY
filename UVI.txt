@@ -1,7 +1,13 @@
-UVI šiandien bus 4; Šiauliuose ir Panevėžyje - 3; Varėnoje ir Lazdijuose - 5.
-UVI ketvirtadienį bus 4; Lazdijuose - 5; Panevėžyje ir Klaipėdoje - 3; Šiauliuose - 2.
-UVI penktadienį bus 4; Šiauliuose, Panevėžyje ir Utenoje - 3; Lazdijuose ir Varėnoje - 2.
+UVI 5/5/2023:
+Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje ir Varėnoje - 4
+Utenoje - 3
+Lazdijuose - 5
+UVI 5/6/2023:
+Klaipėdoje, Šiauliuose, Panevėžyje, Utenoje ir Varėnoje - 4
+Vilniuje, Kaune ir Lazdijuose - 5
+UVI 5/7/2023:
+Vilniuje, Klaipėdoje, Šiauliuose, Panevėžyje, Utenoje ir Varėnoje - 4
+Kaune ir Lazdijuose - 5
 
-ATSINAUJINO: 5/3/2023 16:00
-
-Prašome atsinaujinti programėlę į 1.0.2. Nuo gegužės 6 dienos UVI prognozės jau neatsinaujins.
+ATSINAUJINO: 5/5/2023 16:30
+GEGUŽĖS 4 DIENĄ UVI PROGNOZĖS NEATSINAUJINO DĖL PROGNOZIŲ TEIKĖJO UŽIMTUMO TAI DIENAI, ATSIPRAŠOME UŽ SUKILTUS NEPATOGUMUS.
