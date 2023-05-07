@@ -1,6 +1,2 @@
-5/6/2023 Naujienos:
-Norime atsiprašyti už apskričių prognozių ir kitų prognozių atnaujinimų trikdžius:
-Gegužės 4-6 dienomis vyko trikdžiai (didesni buvo 4 ir 6 dienomis) dėl užimtumo orų prognozių komentarui/perteikėjui.
-Nieko mes negalim pažadėti ateinančiom dienom, bet stengiames kuo dažniau, kuo greičiau perteikti prognozes iš LHMT.
-Jei vyksta trikdžiai, visą laiką galima apsilankyti LHMT svetaines: meteo.lt (m.meteo.lt - svetainės mobili versija) ir beta.meteo.lt.
-Taip pat šiandiena yra diena, kada atšaukiama senesnių versijų UVI, miškų gaisringumo klasės ir meteorologinių reiškinių prognozės. Prašome priminti kitiems, kurie dar neatsinaujinę programėlę - atsinaujinti. Po kelių dienų, prognozes bus nebegalima žiūrėti, išmes "Error 404: Page not found" tekstą.
+5/8/2023 Naujienos:
+Norime pranešti, kad gegužės 7-9 dienomis toliau tęsis trikdžiai perteikdami orų prognozes. Orų prognozių perteikėjas neturi laiko kad atnaujintų prognozes. Už tai labai atsiprašome. Mes stengsimes tuos trikdžius stabdyti arba kad rėčiau vyktų. Vienas iš mūsų būdų yra orų prognozių perteikimas per savo mobilius telefonus, nes kol kas mes atnaujiname prognozes ant kompiuterio. Taip pat reikės susikurti prognozių formatą, kad lengviau ir efektyviau atsinaujintume prognozes, kaip ir meteorologinių reiškinių perspėjimus.
