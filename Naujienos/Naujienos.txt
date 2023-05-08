@@ -1,2 +1,2 @@
-5/8/2023 Naujienos:
-Norime pranešti, kad gegužės 7-9 dienomis toliau tęsis trikdžiai perteikdami orų prognozes. Orų prognozių perteikėjas neturi laiko kad atnaujintų prognozes. Už tai labai atsiprašome. Mes stengsimes tuos trikdžius stabdyti arba kad rėčiau vyktų. Vienas iš mūsų būdų yra orų prognozių perteikimas per savo mobilius telefonus, nes kol kas mes atnaujiname prognozes ant kompiuterio. Taip pat reikės susikurti prognozių formatą, kad lengviau ir efektyviau atsinaujintume prognozes, kaip ir meteorologinių reiškinių perspėjimus.
+5/9/2023 Naujienos:
+Vakar apskričių prognozės neatsinaujino dėl LHMT visualinių prognozių teikimo trikdžių. Taip pat primename, kad gegužės 10 diena - paskutinė diena, kada bus galima naudotis "Legacy" orų prognozių formatą (programėles neatsinaujintos į versiją 1.0.2). Ketvirtadienį gali išmesti "Error 404: Page Not Found" tekstuka ant senesnių versijų, reiškiantį - prašome atsinaujinti.
