@@ -1,11 +1,12 @@
-UVI 5/8/2023:
-Klaipėdoje, Šiauliuose, Panevėžyje ir Utenoje - 4
-Vilniuje, Kaune, Varėnoje ir Lazdijuose - 5
-UVI 5/9/2023:
-Klaipėdoje, Šiauliuose, Panevėžyje ir Utenoje - 4
-Vilniuje, Kaune, Varėnoje ir Lazdijuose - 5
 UVI 5/10/2023:
-Vilniuje, Utenoje - 4
-Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Varėnoje ir Lazdijuose - 5
+Klaipėdoje, Šiauliuose - 5
+Vilniuje, Kaune, Panevėžyje, Utenoje, Varėnoje ir Lazdijuose - 4
+UVI 5/11/2023:
+Kaune, Klaipėdoje, Varėnoje ir Lazdijuose - 5
+Vilniuje, Šiauliuose, Panevėžyje ir Utenoje - 4
+UVI 5/12/2023:
+Klaipėdoje - 5
+Kaune, Šiauliuose, Panevėžyje ir Lazdijuose - 4
+Vilniuje, Utenoje ir Varėnoje - 3
 
-ATSINAUJINO: 5/8/2023 15:20
+ATSINAUJINO: 5/10/2023 18:50

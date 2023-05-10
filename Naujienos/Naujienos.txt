@@ -1,2 +1,5 @@
-5/9/2023 Naujienos:
-Vakar apskričių prognozės neatsinaujino dėl LHMT visualinių prognozių teikimo trikdžių. Taip pat primename, kad gegužės 10 diena - paskutinė diena, kada bus galima naudotis "Legacy" orų prognozių formatą (programėles neatsinaujintos į versiją 1.0.2). Ketvirtadienį gali išmesti "Error 404: Page Not Found" tekstuka ant senesnių versijų, reiškiantį - prašome atsinaujinti.
+5/10/2023 Naujienos:
+Pranešame jaukio savaitgalio orų prognozę:
+5/13/2023 (Šeštadienis) - Naktį oras atvės iki 6-11 laipsnių šilumos, bus giedra. Dieną oras atšils iki 20-22 laipsnių šilumos*, bus nepastoviai debesuota, pus silpnokas vėjas link pajūrio. Kai kur gali trumpam nepust vėjas. Visur kitur vėjas pus įprastai. Kritulių nebus.
+5/14/2023 (Sekmadienis) - Naktį oras atvės iki 8-13 laipsnių šilumos, bus mažai debesuota, kai kur giedra. Dieną daug kur oras atšils iki 22 laipsnių šilumos*, bus mažai debesuota, kai kur giedra, vėjas vėl pus silpnai link pajūrio, bet ir šiaurės rytų Lietuvoje (Panevėžio apskrityje) bus panašus vėjas. Visur kitur pus normalus vėjas.
+* - Gali temperatūros prognozės keistis, gali būti šiek tiek šilčiau nei prognozuota šiandien.
