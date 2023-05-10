@@ -1,5 +1,6 @@
 Visoje Lietuvoje sniego danga 0 cm.
-ATSINAUJINO: 5/2/2023 21:00
+ATSINAUJINO: 5/10/2023 19:15
 DUOMENYS IŠ LHMT ATSINAUJINO: 4/12/2023 6:00
 
-Prašome atsinaujinti programėlę į 1.0.2. Nuo gegužės 6 dienos sniego dangos informacija jau neatsinaujins.
+Informuojame, kad orų prognozės sniego dangai jau nebeatnaujins, dėl meteorologinio vasaros pradžiai aplink gegužės 29 dieną.
+Sniego dangos prognozės vėl atsinaujins kai vidutinė temperatūra kris žemiau 5°C.
