@@ -1,5 +1,2 @@
-5/10/2023 Naujienos:
-Pranešame jaukio savaitgalio orų prognozę:
-5/13/2023 (Šeštadienis) - Naktį oras atvės iki 6-11 laipsnių šilumos, bus giedra. Dieną oras atšils iki 20-22 laipsnių šilumos*, bus nepastoviai debesuota, pus silpnokas vėjas link pajūrio. Kai kur gali trumpam nepust vėjas. Visur kitur vėjas pus įprastai. Kritulių nebus.
-5/14/2023 (Sekmadienis) - Naktį oras atvės iki 8-13 laipsnių šilumos, bus mažai debesuota, kai kur giedra. Dieną daug kur oras atšils iki 22 laipsnių šilumos*, bus mažai debesuota, kai kur giedra, vėjas vėl pus silpnai link pajūrio, bet ir šiaurės rytų Lietuvoje (Panevėžio apskrityje) bus panašus vėjas. Visur kitur pus normalus vėjas.
-* - Gali temperatūros prognozės keistis, gali būti šiek tiek šilčiau nei prognozuota šiandien.
+5/11/2023 Naujienos:
+Nuo šiandienos prognozės atsinaujins dažniau, kadangi sukurta programėlė, kuri leidžia atnaujinti prognozes tiesiai iš telefono. Taip pat gali ir anksčiau atsinaujinti. Šiandien prognozės pradėjo atsinaujinti nuo 10 valandos! Dažnesnis ir greitesnis prognozių atnaujinimas mažins prognozių teikimo trikdžių!
