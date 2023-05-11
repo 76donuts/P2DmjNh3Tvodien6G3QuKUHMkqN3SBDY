@@ -1,5 +1,3 @@
-2023-05-10 - Gaisringumas: Daug kur didelis miškų gaisrų pavojus (IV gaisringumo klasė).
-2023-05-11 - Agrometeorologinis reiškinys (Pavojingas): Naktį dirvos paviršiuje daug kur šalnos 0-3 laipsniai šalčio.
-Gaisringumas: Daug kur didelis miškų gaisrų pavojus (IV gaisringumo klasė).
-2023-05-12 - Gaisringumas: Daug kur didelis miškų gaisrų pavojus (IV gaisringumo klasė).
-Agrometeorologinis reiškinys (Pavojingas): Naktį vietomis dirvos paviršiuje šalnos 0-3 laipsniai šalčio.
+2023-05-11 - Gaisringumas (Pavojingas): Daug kur didelis miškų gaisrų pavojus (IV gaisringumo klasė).
+2023-05-12 - Gaisringumas (Pavojingas): Daug kur didelis miškų gaisrų pavojus (IV gaisringumo klasė). Agrometeorologinis reiškinys (Pavojingas): Naktį vietomis dirvos paviršiuje šalnos 0–3 laipsniai šalčio.
+2023-05-13 - Gaisringumas (Pavojingas): Daug kur didelis miškų gaisrų pavojus (IV gaisringumo klasė).
