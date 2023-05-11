@@ -1,2 +1,3 @@
-Sveiki!
+⚠️ Sveiki, informuojame, kad prognozių saugyklos svetainėje (github.com) vyksta gedimas. Tai reiškia, kad gali prognozės ilgiau atsinaujinti, prognozės (ir apskritai beveik visa programėlė) nerodyti, neveikti ⚠️
+
 Pasirinkite prognozių tipą [visos prognozės pateiktos iš LHMT]:
