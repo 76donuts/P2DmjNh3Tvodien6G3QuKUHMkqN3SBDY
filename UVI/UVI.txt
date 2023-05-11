@@ -1,12 +1,11 @@
-UVI 5/10/2023:
-Klaipėdoje, Šiauliuose - 5
-Vilniuje, Kaune, Panevėžyje, Utenoje, Varėnoje ir Lazdijuose - 4
-UVI 5/11/2023:
-Kaune, Klaipėdoje, Varėnoje ir Lazdijuose - 5
-Vilniuje, Šiauliuose, Panevėžyje ir Utenoje - 4
-UVI 5/12/2023:
-Klaipėdoje - 5
-Kaune, Šiauliuose, Panevėžyje ir Lazdijuose - 4
-Vilniuje, Utenoje ir Varėnoje - 3
+UVI 2023/05/11:
+Utenoje: 4
+Visur kitur: 5
+UVI 2023/05/12:
+Kaune, Klaipėdoje ir Lazdijuose: 5
+Visur kitur: 4
+Kaune ir Lazdijuose: 5
+UVI 2023/05/13:
+Visoje Lietuvoje UVI bus 4.
 
-ATSINAUJINO: 5/10/2023 18:50
+ATNAUJINTA: 5/11/2023 10:00
