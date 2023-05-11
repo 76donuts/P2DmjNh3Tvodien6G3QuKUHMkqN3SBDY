@@ -1,2 +1,3 @@
 5/11/2023 Naujienos:
 Nuo šiandienos prognozės atsinaujins dažniau, kadangi sukurta programėlė, kuri leidžia atnaujinti prognozes tiesiai iš telefono. Taip pat gali ir anksčiau atsinaujinti. Šiandien prognozės pradėjo atsinaujinti nuo 10 valandos! Dažnesnis ir greitesnis prognozių atnaujinimas mažins prognozių teikimo trikdžių!
+Taip pat pranešame, kad senesniem versijom skirtos prognozės jau ištrintos, išmeta "Error 404: Not Found". Prašome kurie dar neatsinaujine - atsinaujinti. Jau nebeįspėsim apie tai, nei atnaujinsim prognozes tom versijom.
