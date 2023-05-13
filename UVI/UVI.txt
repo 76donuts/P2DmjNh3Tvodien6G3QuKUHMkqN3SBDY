@@ -1,10 +1,11 @@
-UVI 2023/05/12:
-Varėnoje: 4
-Visur kitur: 5
-UVI 2023/05/13:
-Visoje Lietuvoje UVI bus 4.
-UVI 2023/05/14:
-Vilniuje, Kaune, Šiauliuose ir Varėnoje: 4
-Klaipėdoje, Panevėžyje, Utenoje ir Lazdijuose: 5
+UVI 5/13/2023:
+Panevėžyje - 5
+Visur kitur - 4
+UVI 5/14/2023:
+Vilniuje, Kaune ir Varėnoje - 4
+Visur kitur - 5
+UVI 5/15/2023:
+Klaipėdoje - 3
+Visur kitur - 4
 
-ATNAUJINTA: 5/12/2023 09:50
+ATSINAUJINO: 5/13/2023 18:45
