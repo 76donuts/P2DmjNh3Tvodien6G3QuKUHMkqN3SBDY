@@ -1,10 +1,8 @@
-Šiandien (2023-05-12): Mažai debesuota, max. temperatūra: 20°C.
-
-2023-05-12 (Šeštadienis)
-0-3 val. Giedra 🌙 12-10°C
-4-7 val. Giedra ☀️ 10-11°C
-8-11 val. Debesuota ☁️ 13-17°C
-12-15 val. Debesuota su pragiedruliais 🌥️ 19-21°C
-16-19 val. Debesuota su pragiedruliais 🌥️ 21-20°C
-20-23 val. Giedra 🌙 19-14°C
-ATNAUJINTA: 5/12/2023 15:20
+2023-05-14 (Sekmadienis)
+0-3 val. Giedra 🌤️ 13-11°C
+4-7 val. Deb. su pragied. 🌥️ 12-14°C
+8-11 val. Giedra ☀️ 16-21°C
+12-15 val. Deb. su pragied. 🌥️ 22-23°C
+16-19 val. Deb. su pragied. 🌥️ 23-22°C
+20-23 val. Giedra 🌙 21-15°C
+ATNAUJINTA: 5/13/2023 20:45
