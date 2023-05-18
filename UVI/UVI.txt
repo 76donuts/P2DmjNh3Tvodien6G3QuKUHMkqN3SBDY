@@ -1,15 +1,14 @@
-UVI 2023-05-17:
-Klaipėdoje - 4
-Šiauliuose - 3
-Panevėžyje ir Utenoje - 2
-Visur kitur - 1
 UVI 2023-05-18:
-Šiauliuose - 5
-Vilniuje, Varėnoje ir Lazdijuose - 2
-Visur kitur - 4
+Klaipėdoje, Šiauliuose, Panevėžyje ir Utenoje - 5
+Kaune - 4
+Vilniuje, Varėnoje ir Lazdijuose - 3
 UVI 2023-05-19:
-Klaipėdoje - 3
-Utenoje ir Varėnoje - 4
-Visur kitur - 5
+Šiauliuose ir Utenoje - 6
+Vilniuje, Kaune, Klaipėdoje ir Panevėžyje - 5
+Varėnoje - 4
+Lazdijuose - 3
+UVI 2023-05-20:
+Klaipėdoje - 5
+Visur kitur - 6
 
-ATSINAUJINO: 2023-05-17 16:55
+ATSINAUJINO: 2023-05-18 13:20
